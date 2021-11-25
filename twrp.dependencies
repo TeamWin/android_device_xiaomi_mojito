@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "nebrassy/android_kernel_xiaomi_mojito",
     "target_path": "kernel/xiaomi/mojito",
-    "revision": "android-11"
+    "branch": "android-11"
   }
 ]
 
